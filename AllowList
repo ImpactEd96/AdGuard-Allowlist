@@ -1,5 +1,9 @@
+! Allow
 ! ==== Real-Debrid ====
 @@||real-debrid.com^
 @@||*.real-debrid.com^
 ! ==== Google ads =====
 @@||ads.google.com^
+
+! Block
+||venice.ai
